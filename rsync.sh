@@ -6,10 +6,6 @@
 # @sync remote dir: ./rsync.sh /local/dir/ /remote/dir/ root@123.56.91.143
 # @sync local dir:  ./rsync.sh /local/dir1/ /local/dir2/ root@192.168.1.200
 #
-# @Author: jingwentian
-# @Date:   2015-10-29 18:28:55
-# @Last Modified by:   jingwentian
-# @Last Modified time: 2015-10-29 21:37:58
 
 LOCALDIR=$1
 REMOTEDIR=$2
